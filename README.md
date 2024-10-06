@@ -74,3 +74,9 @@ Code:-<br>
 
     return 0;
     }
+
+  Output:-<br>
+  ![exp17](https://github.com/VandanGupte101727/CDS-experiment-17/blob/main/Screenshot%202024-10-06%20at%2010.07.10%20PM.png)<br>
+
+Conclusion:-In this experiment we learnt about singly linked list
+
